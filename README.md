@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Figeral
-- 👀 I’m interested in AI research,MULTIPLATE and WEB DEVELOPMENT 
+- 👀 I’m interested in AI research,MULTIPLATEGORM and WEB DEVELOPMENT 
 - 🌱 I’m currently learning FULL STACK DEVELOPMENT 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mouliofitzgerard@gmail.com
